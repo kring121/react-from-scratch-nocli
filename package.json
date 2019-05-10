@@ -4,7 +4,7 @@
   "description": "Boiler plate for react apps",
   "main": "index.js",
   "scripts": {
-    "start": "webpack-dev-server --mode development --open --hot",
+    "start": "webpack-dev-server --port 3000 --mode development --open --hot",
     "build": "webpack --mode production"
   },
   "repository": "https://github.com/kring121/react-from-scratch-nocli.git",
